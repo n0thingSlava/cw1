@@ -1,6 +1,6 @@
 public class Employee {
     private String FIO;
-    private int department;
+    private int Department;
     private float Salary;
     private static int Counter;
 
